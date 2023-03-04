@@ -138,3 +138,11 @@ footer {
     color: #ecf0f1;
     padding: 16px 0;
 }
+
+#infos .container {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 8px;
+    box-sizing: border-box;
+    line-height: 26px;
+}
